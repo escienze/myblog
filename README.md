@@ -1,0 +1,1 @@
+This is my new blog site that will be created using css rails, js, jquery and bootstrap and sss.
